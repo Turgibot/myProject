@@ -1,7 +1,8 @@
 package exampleProj;
 
 public class CoolFeature {
-	public int number;
+
+	public static int num;
 	int yNot = 9;
-	
+
 }
